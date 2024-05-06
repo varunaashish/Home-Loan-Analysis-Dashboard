@@ -20,6 +20,17 @@ Essentially, the bank wants to:
 - Analyse the patterns/behaviour of customers applying for loans
 - Identify the target customers applying for loans greater than ₹10 lakh to maximise net profit.
 
+
+# Process :
+- Understanding Objective & Data
+- Data Cleaning & Modelling
+- Mock Layout
+
+# Learnings:
+- Data Cleaning & Modelling
+- Analyzed the trend and customer behavior
+- Used AI visuals like Key Influencers & Decomposition Tree to find out factor influencing a specific event
+
 # Key Insights
 
 - The bank received home loan applications totaling $245k, out of which $213k was sanctioned after evaluation. However, only $196k was disbursed to borrowers. Impressively, $104k has already been recovered, 
